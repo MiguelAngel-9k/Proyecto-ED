@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------
+Nombre del medico: ALISON CAMERON diaz	 Cedula: 372839572
+Especialidad: CIRUJANO
+Fecha de cita: 26/06/2020	Hora: 14:60	Cuarto: 4	Registro: 127
+Nombre del paciente: MELANIE MICHAELLE MORENO MARTINEZ
+-----------------------------------------------------------------------
+Nombre del medico: ALISON CAMERON diaz	 Cedula: 372839572
+Especialidad: CIRUJANO
+Fecha de cita: 19/06/2020	Hora: 17:60	Cuarto: 4	Registro: 471
+Nombre del paciente: JULIAN MARTINEZ MARTINEZ
+-----------------------------------------------------------------------
+Nombre del medico: ALISON CAMERON diaz	 Cedula: 372839572
+Especialidad: CIRUJANO
+Fecha de cita: 19/06/2020	Hora: 17:40	Cuarto: 4	Registro: 626
+Nombre del paciente: JULIAN MARTINEZ MARTINEZ
